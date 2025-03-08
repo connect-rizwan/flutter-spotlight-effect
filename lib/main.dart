@@ -46,7 +46,7 @@ class _SpotlightEffectPracticeState extends State<SpotlightEffectPractice> {
                     padding: const EdgeInsets.all(16.0),
                     child: Text(
                       '''
-    Hello! My name is Zeeshan, and I am a skilled software engineer and Flutter developer with a passion for creating innovative and efficient mobile applications. With expertise in building dynamic and user-friendly solutions, I specialize in leveraging the power of Flutter to craft seamless cross-platform experiences.
+    Hello! My name is Rizwan Ali, and I am a skilled software engineer and Flutter developer with a passion for creating innovative and efficient mobile applications. With expertise in building dynamic and user-friendly solutions, I specialize in leveraging the power of Flutter to craft seamless cross-platform experiences.
 
 I thrive on solving complex challenges, whether it’s designing responsive UIs, optimizing app performance, or implementing cutting-edge features. My approach to development focuses on clean, maintainable code and delivering products that align with user needs and expectations.
 
